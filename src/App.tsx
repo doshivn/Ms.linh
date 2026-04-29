@@ -191,7 +191,7 @@ export default function App() {
             >
                <div className="absolute inset-0 bg-blue-600 rounded-2xl rotate-3 scale-105 opacity-20 blur-lg"></div>
                <img 
-                 src="https://images.unsplash.com/photo-1573164713988-8665fc963095?q=80&w=2069&auto=format&fit=crop"
+                 src="/regenerated_image_1777453522524.png"
                  alt="Businesswoman Logistics"
                  className="relative z-10 w-full h-[500px] object-cover rounded-2xl shadow-2xl border border-white/10"
                />
@@ -351,7 +351,7 @@ export default function App() {
               className="relative"
             >
               <img 
-                src="https://images.unsplash.com/photo-1577705481773-455b57d6b49e?q=80&w=2070&auto=format&fit=crop" 
+                src="/regenerated_image_1777453523703.png" 
                 alt="Truck logistics" 
                 className="rounded-2xl shadow-2xl object-cover h-[500px] w-full"
               />
